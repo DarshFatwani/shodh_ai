@@ -1,4 +1,4 @@
-#🧠 Shodh AI – Contest Judge Backend
+# Shodh AI – Contest Judge Backend
 
 A backend service that powers an online coding contest platform with live judging and Docker-based sandboxed execution for user submissions.
 
