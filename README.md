@@ -15,5 +15,5 @@ A backend service that powers an online coding contest platform with live judgin
 2.Clone and Run
 ```bash
 git clone https://github.com/DarshFatwani/shodh_ai.git
-cd shodh_ai
-./gradlew clean bootRun
+./gradlew clean build
+
